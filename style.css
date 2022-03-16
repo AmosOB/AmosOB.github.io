@@ -80,7 +80,12 @@ body {
   border-bottom-color: #fff;
 }
 
-
+@media (min-width: 48em) {
+  .masthead-brand {
+    float: left;
+    margin-top: 1.5rem;
+    margin-right: 7rem;
+  }
   .nav-masthead {
     float: right;
   }
