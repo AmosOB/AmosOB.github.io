@@ -51,7 +51,7 @@ body {
  * Header
  */
 .masthead {
-  margin-bottom: 2rem;
+  padding-bottom: 5%;
 }
 
 .masthead-brand {
@@ -83,7 +83,6 @@ body {
 @media (min-width: 48em) {
   .masthead-brand {
     float: left;
-    margin-top: 1.5rem;
     margin-right: 7rem;
   }
 }
